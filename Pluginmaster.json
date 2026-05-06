@@ -1,0 +1,29 @@
+[
+  {
+    "Author": "Hxq",
+    "Name": "PixelPerfect-CN",
+    "Description": "在游戏中绘制你的坐标点，作者：Haplo064,汉化：Hxq。",
+    "Punchline": "PixelPerfect-CN 插件",
+    "InternalName": "PixelPerfectCN",
+    "AssemblyVersion": "3.3.4.0",
+    "RepoUrl": "https://github.com/AomrZx/Hxq/tree/main/PixelPerfect-CN",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "IconUrl": "https://github.com/AomrZx/Hxq/blob/main/PixelPerfect-CN/images/icon.png",
+    "ImageUrls": [
+      "https://github.com/AomrZx/Hxq/blob/main/PixelPerfect-CN/images/image1.png",
+      "https://github.com/AomrZx/Hxq/blob/main/PixelPerfect-CN/images/image2.png",
+      "https://github.com/AomrZx/Hxq/blob/main/PixelPerfect-CN/images/image3.png"
+    ],
+    "Tags": [
+      "PixelPerfect",
+      "CN"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/AomrZx/Hxq/blob/main/PixelPerfect-CN/PixelPerfect-CN.rar",
+    "DownloadLinkUpdate": "https://github.com/AomrZx/Hxq/blob/main/PixelPerfect-CN/PixelPerfect-CN.rar",
+    "Changelog": "",
+    "LastUpdate": 20260506
+  }
+]
