@@ -1,0 +1,53 @@
+{
+  "author": "Ahxq",
+  "version": "3.3.5",
+  "description": "Ahxq NINJA / VPR / WHM / BRD / SMN / MCH / RDM / DRK / DRG / SAM PvP ACR for Traditional Chinese (TC), Dalamud API13 and PromeRotation API13.",
+  "supportedJobs": [
+    {
+      "job": "DRK",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "WHM",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "DRG",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "NIN",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "SAM",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "VPR",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "BRD",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "MCH",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "SMN",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "RDM",
+      "contentScope": "PvP"
+    }
+  ],
+  "apiVersion": 13,
+  "referencePromeVersion": "1.3.1.4",
+  "downloadUrl": "https://raw.githubusercontent.com/Aahxq/ACR/main/TaiWanPVP/3.3.5/DLL/Ahxq.zip",
+  "sourceRepositoryUrl": "",
+  "sponsorUrl": "",
+  "sha256": "cd87c1dae1a792c9edfae6525c77fc863b0d38ec823c263e571aa322351e26bc"
+}
