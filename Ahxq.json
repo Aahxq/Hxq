@@ -1,57 +1,61 @@
 {
-  "author": "Ahxq",
-  "version": "3.4.0",
-  "description": "Ahxq NINJA / VPR / WHM / BRD / BLM / SMN / MCH / RDM / DRK / DRG / SAM PvP ACR for Traditional Chinese (TC), Dalamud API13 and PromeRotation API13.",
-  "supportedJobs": [
-    {
-      "job": "DRK",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "WHM",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "BLM",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "DRG",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "NIN",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "SAM",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "VPR",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "BRD",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "MCH",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "SMN",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "RDM",
-      "contentScope": "PvP"
-    }
-  ],
-  "apiVersion": 13,
-  "referencePromeVersion": "1.3.1.4",
-  "downloadUrl": "https://raw.githubusercontent.com/Aahxq/Hxq/main/Ahxq.zip",
-  "sourceRepositoryUrl": "",
-  "sponsorUrl": "",
-  "sha256": "d6ae96da8ee60ecfc358bd40a18e5e1a87a558b2d6045d503545958b25731076"
+    "author":  "Ahxq",
+    "version":  "3.4.3",
+    "description":  "Ahxq NINJA / VPR / WHM / BRD / BLM / SMN / MCH / RDM / DRK / DRG / SAM / PLD PvP ACR for Traditional Chinese (TC), Dalamud API13 and PromeRotation API13.",
+    "supportedJobs":  [
+                          {
+                              "job":  "PLD",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "DRK",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "WHM",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "DRG",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "NIN",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "SAM",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "VPR",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "BRD",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "MCH",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "BLM",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "SMN",
+                              "contentScope":  "PvP"
+                          },
+                          {
+                              "job":  "RDM",
+                              "contentScope":  "PvP"
+                          }
+                      ],
+    "apiVersion":  13,
+    "referencePromeVersion":  "1.3.1.4",
+    "downloadUrl":  "https://raw.githubusercontent.com/Aahxq/Hxq/main/Ahxq.zip",
+    "sourceRepositoryUrl":  "",
+    "sponsorUrl":  "",
+    "sha256":  "f6bb7ceea60c085eca5514ebf26fc72e84f25a73de07a50c84ca4cc25247a373"
 }
