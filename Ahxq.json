@@ -1,6 +1,6 @@
 {
   "author": "Ahxq",
-  "version": "4.2.4",
+  "version": "4.2.6",
   "description": "Ahxq PLD / DRK / WHM / DRG / NIN / SAM / VPR / BRD / MCH / BLM / SMN / RDM / WAR / GNB PvP ACR for Traditional Chinese (TC), Dalamud API13 and PromeRotation API13.",
   "supportedJobs": [
     {
@@ -65,5 +65,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Aahxq/Hxq/main/Ahxq.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "93171fc818cecc49aabfad8fb0a07231e457cc6e2aebe3c0e68e8b3766562db2"
+  "sha256": "3facf649615a892bbd5e540c361d763330a66fc32542a3e3b5bfdf3da1c3a283"
 }
